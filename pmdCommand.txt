@@ -1,0 +1,2 @@
+cd C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\pmd-bin-6.36.0\bin
+./pmd.bat -d C:\Users\Administrator\pmdClasses -R C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\pmd-bin-6.36.0\lib\ruleset.xml -f text -reportfile C:\Users\Administrator\pmdClasses\PMDReport.txt -failOnViolation false
